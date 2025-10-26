@@ -14,4 +14,4 @@ Lab 4 - Express web app with routes for Dynamic Web Apps module
 / , /about , /contact , /date , /welcome/Eliza , /chain , /file
 
 ## Public VM Link
-See links.txt
+home=http://www.doc.gold.ac.uk/usr/417/ 
